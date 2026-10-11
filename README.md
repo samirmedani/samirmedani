@@ -1,13 +1,9 @@
-### Samir
+### Salut, moi c'est Samir
 
-Développeur indépendant en France. Je fais des sites web.
+Je fais des sites web, surtout en vibecoding. Je passe mes journées à manger du token avec Claude, GPT, DeepSeek et tout ce qui sort.
 
-Fan de vibecoding : je mange du token à longueur de journée et j'utilise à fond Claude, GPT, DeepSeek et les autres.
+En ce moment je m'occupe de [Yatofix](https://yatofix.com), un site qui repère les composants PC qui baissent de prix, et de [no no update ?](https://no-no-update.com), où je suis les sorties de modèles d'IA pour savoir ce qui arrive et quand.
 
-**[Yatofix](https://yatofix.com)** : les composants PC en baisse de prix. Processeurs, cartes graphiques, RAM et stockage, comparés entre marchands et vérifiés plusieurs fois par jour. Sur X : [@yatofix](https://x.com/yatofix).
+Le reste de mes projets publics est sur [yatofix.com/projets](https://yatofix.com/projets).
 
-**[no no update ?](https://no-no-update.com)** : le suivi des sorties de modèles d'IA (GPT, Claude, Gemini…), avec l'historique, les dates, les rumeurs et leurs sources. Sur X : [@no_no_update](https://x.com/no_no_update).
-
-Mes projets publics sont sur la [page Projets de yatofix.com](https://yatofix.com/projets).
-
-Moi sur X : [@Mayuu_France](https://x.com/Mayuu_France).
+Sur X : [@Mayuu_France](https://x.com/Mayuu_France), et aussi [@yatofix](https://x.com/yatofix) et [@no_no_update](https://x.com/no_no_update).
