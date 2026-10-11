@@ -1,5 +1,3 @@
-### Salut, moi c'est Samir
-
 Je fais des sites web, surtout en vibecoding. Je passe mes journées à manger du token avec Claude, GPT, DeepSeek et tout ce qui sort.
 
 En ce moment je m'occupe de [Yatofix](https://yatofix.com), un site qui repère les composants PC qui baissent de prix, et de [no no update ?](https://no-no-update.com), où je suis les sorties de modèles d'IA pour savoir ce qui arrive et quand.
